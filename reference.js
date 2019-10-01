@@ -11,7 +11,7 @@ class App extends Component {
   }
 
   componentDidUpdate() {
-    const {row0, row1, row2, gameOver} = this.state;board 
+    const {row0, row1, row2, gameOver} = this.state.board; 
 
     // without this check, we will enter an infinite loop upon winning
     if (!gameOver) {
