@@ -16,8 +16,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "browserify": "^10.2.4",
-    "gulp": "^3.9.0",
+    "browserify": "^17.0.0",
+    "gulp": "^4.0.2",
     "gulp-notify": "^2.2.0",
     "react": "^0.14",
     "react-dom": "^0.14.0",
